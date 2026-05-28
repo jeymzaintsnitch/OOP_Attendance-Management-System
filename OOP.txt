@@ -3,7 +3,7 @@ Attendance Management System (OOP Project)
 JavaFX/src/OOP/Main.java (This is the file directory)
 Package name : OOP
 Project name : JavaFX
-To Create and Setup Java FX:
+To Create and Setup Java FX (YOU NEED TO DOWNLOAD SDK(javafx) ONLINE):
    Install the e(fx)clipse Plugin:
    -  Open Eclipse and go to Help > Eclipse Marketplace > Search for "e(fx)clipse" and click Install.
 Create a JavaFX User Library: 
