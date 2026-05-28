@@ -15,6 +15,6 @@ Reliable performance for handling daily records
 - Language: Java
 - UI: JavaFX
 - Reports: XML on JasperReports
- IDE: Eclipse
+ - IDE: Eclipse
 
 Read the OOP.txt to setup the jar files
