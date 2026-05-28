@@ -3,12 +3,16 @@ Attendance Management System (OOP Project)
 JavaFX/src/OOP/Main.java (This is the file directory)
 Package name : OOP
 Project name : JavaFX
+To Create and Setup Java FX:
+   Install the e(fx)clipse Plugin:
+   -  Open Eclipse and go to Help > Eclipse Marketplace > Search for "e(fx)clipse" and click Install.
+Create a JavaFX User Library: 
+   - Window > Preferences > Navigate to Java > Build Path > User Libraries and click New....Name it "JavaFX" and click Add External JARs....Navigate to the lib folder of your extracted SDK and select all .jar files
 
-Right Click Project > Build Path > libraries > In the Classpath add external jars and add this files:
-
-- Add all jar inside the lib in  javafx: C:\Users\James\Downloads\Java lib files\openjfx-26.0.1_windows-x64_bin-sdk\javafx-sdk-26.0.1\lib
-- Add all Java lib jar files in the Classpath
-
+To add jar files in Build Path: 
+   Right Click Project > Build Path > libraries > In the Classpath add external jars and add this files:
+   - Add all jar inside the lib in  javafx: C:\Users\James\Downloads\Java lib files\openjfx-26.0.1_windows-x64_bin-   sdk\javafx-sdk-26.0.1\lib (I suggest to download in the JavaFX website this is only the path)
+   - Add all Java lib jar files in the Classpath
 
 attendance.db (Inside the JavaFX(Automatically created if you run the database.java/Main.java)
 
