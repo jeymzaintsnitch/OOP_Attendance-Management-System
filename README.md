@@ -1,11 +1,11 @@
 # OOP_Attendance-Management-System
 
 Attendance Management System built in Java using JavaFX and Jrxml Files
-unctional Requirements:
+- Functional Requirements:
 Track daily attendance records
 Generate attendance reports for individuals (screen and print)
 Notifications for absentees or low attendance
-Non-Functional Requirements:
+- Non-Functional Requirements:
 Secure storage of attendance data
 Responsive and fast interface
 Reliable performance for handling daily records
@@ -16,3 +16,5 @@ Reliable performance for handling daily records
 - UI: JavaFX
 - Reports: XML on JasperReports
  IDE: Eclipse
+
+Read the OOP.txt to setup the jar files
