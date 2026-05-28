@@ -1,20 +1,9 @@
-Attendance Management System (OOP Project)
-
-JavaFX/src/OOP/Main.java (This is the file directory)
-Package name : OOP
-Project name : JavaFX
-
-Right Click Project > Build Path > libraries > In the Classpath add external jars and add this files:
-
-- Add all jar inside the lib in  javafx: C:\Users\James\Downloads\Java lib files\openjfx-26.0.1_windows-x64_bin-sdk\javafx-sdk-26.0.1\lib
-- Add all Java lib jar files in the Classpath
-
-
-attendance.db (Inside the JavaFX(Automatically created if you run the database.java/Main.java)
-
-Right click Main.java > Go to Run As Configuration > Arguments > VM arguments (Add this commands inside the box):
- --module-path "The_path _to_your_JavaFX_lib_jar_files(copy the path of your javafx lib" --add-modules javafx.controls,javafx.fxml
-
-
-Run Main.java
-
+JavaFX/
+├── src/
+│   └── OOP/
+│       ├── AttendanceRecord.java
+│       ├── AttendanceReport.jrxml
+│       ├── DatabaseManager.java
+│       ├── Main.java
+│       └── ReportGenerator.java
+└── attendance.db
